@@ -2,7 +2,7 @@ import Foundation
 import UIKit
 
 // The max number of characters you're capable of writing before the pen runs out of ink
-let CHAR_LIMIT = 200
+let CHAR_LIMIT = 30
 
 extension String {
     func replace(string:String, replacement:String) -> String {
